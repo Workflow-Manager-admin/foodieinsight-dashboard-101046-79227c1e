@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/foodieinsight-dashboard-101046-79227c1e/foodieinsight_dashboard"
+}
